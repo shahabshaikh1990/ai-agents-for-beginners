@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./translations/**)",
+      "Read(./translated_images/**)",
+      "Read(./15-browser-use/llms.txt)"
+    ]
+  }
+}
